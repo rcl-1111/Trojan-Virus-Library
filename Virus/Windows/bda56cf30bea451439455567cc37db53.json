@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-16",
+  "description": "Trojan-Virus-Library Individual Virus File",
+  "author": "rcl-1111",
+  "name": "QQDADAOVIP（熊猫烧香）.exe",
+  "type": "Trojan",
+  "platform": "Windows",
+  "md5_hash": "bda56cf30bea451439455567cc37db53",
+  "sha1_hash": "1f822bdf2a03e0795b2fd99ad3c6e91dbc375b05",
+  "sha256_hash": "a45f7196b6e0b4a96a50bb6866b7d1becc6109120dee21dc8e6f79f8b21a2667",
+  "risk_level": "High",
+  "description": "2345病毒样本（）别人给的",
+  "detection_date": "2024-01-01",
+  "signature": "恶意行为",
+  "reference": "",
+  "tags": ["后门", "信息窃取", "Windows"],
+  "behavior": [
+    "创建系统后门",
+    "窃取用户敏感信息",
+    "自启动"
+  ],
+  "mitigation": [
+    "使用杀毒软件扫描",
+  ]
+}

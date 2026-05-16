@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2024-01-01",
+  "description": "Trojan-Virus-Library Individual Virus File",
+  "author": "rcl-1111",
+  "name": "Example_Trojan_Win32",
+  "type": "Trojan",
+  "platform": "Windows",
+  "md5_hash": "d41d8cd98f00b204e9800998ecf8427e",
+  "sha1_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+  "sha256_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "risk_level": "High",
+  "description": "示例木马病毒，用于测试",
+  "detection_date": "2024-01-01",
+  "signature": "恶意行为：创建后门，窃取信息",
+  "reference": "",
+  "tags": ["后门", "信息窃取", "Windows"],
+  "behavior": [
+    "创建系统后门",
+    "窃取用户敏感信息",
+    "自启动"
+  ],
+  "mitigation": [
+    "使用杀毒软件扫描",
+    "删除可疑文件",
+    "更改系统密码"
+  ]
+}
